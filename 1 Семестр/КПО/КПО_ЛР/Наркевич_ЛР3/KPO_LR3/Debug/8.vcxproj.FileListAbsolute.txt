@@ -1,0 +1,5 @@
+C:\Users\romsh.DESKTOP-RSOPA36\source\repos\8\Debug\8.exe
+C:\Users\romsh.DESKTOP-RSOPA36\source\repos\8\Debug\8.pdb
+C:\Users\romsh.DESKTOP-RSOPA36\Desktop\КПО_ЛР_3\8\Debug\8.exe
+C:\Users\romsh.DESKTOP-RSOPA36\Desktop\КПО_ЛР_3\8\Debug\8.pdb
+C:\Users\Жмых\Desktop\КПО_ЛР\Наркевич_ЛР3\KPO_LR3\Debug\8.exe

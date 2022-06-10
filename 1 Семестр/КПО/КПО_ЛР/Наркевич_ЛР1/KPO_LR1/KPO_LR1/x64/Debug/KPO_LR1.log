@@ -1,0 +1,12 @@
+﻿  KPO_LR1.cpp
+C:\Users\Жмых\Desktop\КПО_ЛР\Наркевич_ЛР1\KPO_LR1\KPO_LR1\KPO_LR1.cpp(107,19): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Жмых\Desktop\КПО_ЛР\Наркевич_ЛР1\KPO_LR1\KPO_LR1\KPO_LR1.cpp(108,20): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  KPO_LR1.vcxproj -> C:\Users\Жмых\Desktop\КПО_ЛР\Наркевич_ЛР1\KPO_LR1\x64\Debug\KPO_LR1.exe

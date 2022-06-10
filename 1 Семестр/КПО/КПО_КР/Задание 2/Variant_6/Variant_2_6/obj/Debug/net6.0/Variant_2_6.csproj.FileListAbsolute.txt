@@ -1,0 +1,30 @@
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.csproj.AssemblyReference.cache
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.AssemblyInfoInputs.cache
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.AssemblyInfo.cs
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.csproj.CoreCompileInputs.cache
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\bin\Debug\net6.0\Variant_2_6.exe
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\bin\Debug\net6.0\Variant_2_6.deps.json
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\bin\Debug\net6.0\Variant_2_6.runtimeconfig.json
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\bin\Debug\net6.0\Variant_2_6.dll
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\bin\Debug\net6.0\ref\Variant_2_6.dll
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\bin\Debug\net6.0\Variant_2_6.pdb
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.dll
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\obj\Debug\net6.0\ref\Variant_2_6.dll
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.pdb
+D:\code\Institute\KPO\Variant_2_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.genruntimeconfig.cache
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\bin\Debug\net6.0\Variant_2_6.exe
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\bin\Debug\net6.0\Variant_2_6.deps.json
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\bin\Debug\net6.0\Variant_2_6.runtimeconfig.json
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\bin\Debug\net6.0\Variant_2_6.dll
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\bin\Debug\net6.0\Variant_2_6.pdb
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.csproj.AssemblyReference.cache
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.AssemblyInfoInputs.cache
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.AssemblyInfo.cs
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.csproj.CoreCompileInputs.cache
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.dll
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\obj\Debug\net6.0\refint\Variant_2_6.dll
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.pdb
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\obj\Debug\net6.0\Variant_2_6.genruntimeconfig.cache
+C:\Users\Жмых\Desktop\Для служивых\КПО\КПО_КР\Задание 2\Variant_6\Variant_2_6\obj\Debug\net6.0\ref\Variant_2_6.dll
