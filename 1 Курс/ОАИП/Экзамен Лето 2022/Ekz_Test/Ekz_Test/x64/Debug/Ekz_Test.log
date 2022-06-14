@@ -1,0 +1,3 @@
+﻿  Ekz_Test.cpp
+F:\CloneWars\BSUIR\1 Курс\ОАИП\Экзамен Лето 2022\Ekz_Test\Ekz_Test\Ekz_Test.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Ekz_Test.vcxproj -> F:\CloneWars\BSUIR\1 Курс\ОАИП\Экзамен Лето 2022\Ekz_Test\x64\Debug\Ekz_Test.exe

@@ -1,0 +1,4 @@
+﻿  Ekz.cpp
+F:\CloneWars\BSUIR\1 Курс\ОАИП\Экзамен Лето 2022\Ekz\Ekz\Ekz.cpp(17,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+F:\CloneWars\BSUIR\1 Курс\ОАИП\Экзамен Лето 2022\Ekz\Ekz\Ekz.cpp(25,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Ekz.vcxproj -> F:\CloneWars\BSUIR\1 Курс\ОАИП\Экзамен Лето 2022\Ekz\x64\Debug\Ekz.exe
